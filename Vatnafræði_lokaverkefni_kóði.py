@@ -5,6 +5,7 @@ Authors: Ásgeir Pálsson, Ísak Heiðar Magnússon
 # Nauðsynlegir pakkar fyrir kóðan
 """
 
+
 # Pakkar
 from pathlib import Path
 import numpy as np
