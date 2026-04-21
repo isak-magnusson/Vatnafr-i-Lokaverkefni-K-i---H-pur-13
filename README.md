@@ -24,6 +24,8 @@ Kóðinn framkvæmir eftirfarandi greiningar:
 7. Framkvæmir leitnigreiningu
 8. Greinir staka rennslisatburði
 
+Kóðinn er settur þannig upp að hann sé keyrður frá toppi til botns. Hann er skiptur eftir þessum 8 liðum þannig hann reiknar, teiknar og skilar niðurstöðum í sér keyrslukóða fyrir hvern lið.
+
 ## Gögn
 
 Kóðinn notar eftirfarandi gagnaskrár:
